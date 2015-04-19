@@ -10,6 +10,14 @@ To run project:
 
 	-Clone repo
 	
+	- npm install express
+	
+	- npm install express --save
+	
+	- npm install express-generator -g
+	
+	- express boardgame
+	
 	-cd ./boardgame 
 	
 	-npm install
