@@ -19,7 +19,7 @@
 			id : "map"
 		}).appendTo(document.body);
 		
-        var boardBackgroundMap = data;
+        var boardBackgroundMap = data[0].map;
 
 		// Board size.
 		var rows = boardBackgroundMap.length;
